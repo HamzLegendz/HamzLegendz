@@ -12,7 +12,7 @@
 
 <p align="center"><samp>
 <a href="https://animeshz.github.io" target="_blank" style="text-decoration: none !important"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/animeshz" target="_blank" style="text-decoration: none !important"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="[https://https://wa.me/6285272386405" target="_blank" style="text-decoration: none !important"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" /></a>
 <a href="https://stackoverflow.com/users/11377112" target="_blank" style="text-decoration: none !important"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
 <a href="https://discord.com/users/329643205182095360" target="_blank" style="text-decoration: none !important"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 <a href="https://codeforces.com/profile/animeshz916" target="_blank" style="text-decoration: none !important"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" /></a>
