@@ -10,15 +10,18 @@ Welcome to my GitHub profile! I'm a passionate coder with a love for technology 
 - [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/6285272386405)
 - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/hamz_corez)
 
-### Music I'm Vibing To 🎶
-[![Listen on Spotify](https://img.shields.io/badge/Listen%20on%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/0fiKmieZ6xzoolzNOC3Fxi?si=m3AnsMP-SO-k3IjSkbKYDw)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ep4t7scar2rluyqqib6vkd3esm)
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ep4t7scar2rluyqqib6vkd3esm&count={count})
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ep4t7scar2rluyqqib6vkd3esm&width={width})
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ep4t7scar2rluyqqib6vkd3esm&unique={true|1|on|yes})
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HamzLegendz &show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HamzLegendz&layout=compact&theme=tokyonight)
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
-
----
-
-**Thanks for stopping by!** 🌟
+**Thanks for Support me😁🌟
