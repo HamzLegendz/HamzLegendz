@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate coder with a love for technology 
 - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/hamz_corez)
 
 ### Music I'm Vibing To 🎶
-[![Listen on Spotify](https://img.shields.io/badge/Listen%20on%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/6DR3yC5eBepsFn10eMUMDJ?si=4b6b4d4c995c4b6c)
+[![Listen on Spotify](https://img.shields.io/badge/Listen%20on%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/0fiKmieZ6xzoolzNOC3Fxi?si=m3AnsMP-SO-k3IjSkbKYDw)
 
 ---
 
