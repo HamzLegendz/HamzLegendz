@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a coder who also happens to be a big fan of *B
 ---
 
 ### What I'm Listening to 🎧
-[![Sekuat Hatimu - Last Child](https://img.shields.io/badge/Spotify-Sekuat%20Hatimu%20by%20Last%20Child-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/6DR3yC5eBepsFn10eMUMDJ?si=4b6b4d4c995c4b6c)
+[![Listen on Spotify](https://img.shields.io/badge/Listen%20on%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/6DR3yC5eBepsFn10eMUMDJ?si=4b6b4d4c995c4b6c)
 
 ---
 
