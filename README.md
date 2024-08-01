@@ -11,6 +11,7 @@ Welcome to my GitHub profile! I'm a passionate coder with a love for technology 
 - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/hamz_corez)
  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ep4t7scar2rluyqqib6vkd3esm&unique={true|1|on|yes})
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ep4t7scar2rluyqqib6vkd3esm&width={width})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ep4t7scar2rluyqqib6vkd3esm)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HamzLegendz&show_icons=true&theme=tokyonight)
 
 
