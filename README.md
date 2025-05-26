@@ -9,7 +9,7 @@ Every challenge is an opportunity to grow, and I'm committed to learning somethi
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=4997&color=993300&background=FF673200&center=true&vCenter=true&lines=Hey+there!;It's+me,+HamzLegendz!;Welcome;To+My+GitHub🌟" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=4997&color=993300&background=FF673200&center=true&vCenter=true&lines=Hey+there!;Its+me,+HamzLegendz!;Welcome;To+My+GitHub🌟" alt="Typing SVG" />
 </p>
 
 
