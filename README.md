@@ -9,29 +9,20 @@
 </p>
 
 <p align="center">
-  Fellow developer, tech explorer, and DIY enthusiast. <br/>
-  When I'm not coding, you'll find me buried in books or crafting new projects.
+  A passionate learner driven by curiosity and a love for building things through code.
+I'm exploring different programming languages, working on small projects, and constantly refining my problem-solving skills.
+Every challenge is an opportunity to grow, and I'm committed to learning something new every day.
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=GlossAndBloom&size=30&duration=4997&color=993300&background=FF673200&center=true&vCenter=true&lines=Hey+there!;It's+me,+HamzLegendz!;Welcome;To+My+GitHub🌟" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/153312843?v=4" alt="Profile Picture" width="200" height="200" />
-</p>
-
-<p align="center">
-  <img 
-    src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHamzLegendz&count_bg=%23E91E63&title_bg=%23000000&icon=https%3A%2F%2Fanonymfile.com%2F9BNzy%2F052947db256a1ed92595276937c44753.png&icon_width=20&title=Profile%20Views&edge_flat=true" 
-    alt="Profile Views" 
-  />
-</p>
 
 <p align="center"><b>Visitors</b></p>
 
 <p align="center">
-  <img src="https://count.getloli.com/get/@fokusdotid?theme=rule34" alt="Visitor Count" />
+  <img src="https://count.getloli.com/get/@HamzLegendz?theme=rule34" alt="Visitor Count" />
 </p>
 
 ---
