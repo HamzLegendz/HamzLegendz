@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://www.svgrepo.com/show/275927/layer-group.svg" width="100" height="100" alt="logo" />
-</p>
-
-<h1 align="center">Hi, I'm HamzLegendz</h1>
+<p align="center">Hi, I'm HamzLegendz</p>
 
 <p align="center">
   <img src="https://wallpaperaccess.com/full/6364919.gif" alt="gif" width="100%" />
