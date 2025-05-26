@@ -1,5 +1,3 @@
-<p align="center">Hi, I'm HamzLegendz</p>
-
 <p align="center">
   <img src="https://wallpaperaccess.com/full/6364919.gif" alt="gif" width="100%" />
 </p>
