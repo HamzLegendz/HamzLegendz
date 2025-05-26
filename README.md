@@ -1,52 +1,66 @@
-<p align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; max-width: 720px; margin: auto; padding: 20px; background: #1e1e2f; border-radius: 16px; color: #ddd; box-shadow: 0 10px 30px rgba(209, 106, 255, 0.4);">
+<p align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; max-width: 720px; margin: 40px auto; color:#222;">
 
-  <svg width="120" height="120" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" style="margin: 0 auto 24px auto; display: block; filter: drop-shadow(0 0 6px #d16affcc);">
-    <circle cx="32" cy="32" r="30" stroke="#D16AFF" stroke-width="3"/>
-    <path d="M20 44L44 20" stroke="#D16AFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M20 20L44 44" stroke="#D16AFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-    <circle cx="32" cy="32" r="10" stroke="#D16AFF" stroke-width="2" />
+  <svg width="128" height="128" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" style="display: block; margin: 0 auto 24px; animation: spin 15s linear infinite;">
+    <circle cx="32" cy="32" r="30" stroke="#8B5CF6" stroke-width="5" stroke-linecap="round" />
+    <path d="M32 12v20l14 14" stroke="#8B5CF6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
   </svg>
 
-  <h1 style="font-weight: 900; font-size: 3rem; margin: 0 0 12px; letter-spacing: 2px; color: #D16AFF; text-shadow: 0 0 8px #bb63ff;">SkyWalker</h1>
-  
-  <p style="font-size: 1.25rem; line-height: 1.6; max-width: 560px; margin: 0 auto 30px; color: #ccc;">
-    Developer passionate about crafting clean, meaningful code. Outside the terminal, I dive into books and dream up DIY projects that challenge the ordinary.
+  <h1 style="font-size: 3.6rem; font-weight: 900; color: #7C3AED; margin-bottom: 6px; letter-spacing: -0.04em;">HamzLegendz</h1>
+  <p style="font-size: 1.4rem; font-weight: 600; color: #A78BFA; margin-top: 0;">Software Artisan & Tech Innovator</p>
+
+  <p style="max-width: 680px; margin: 30px auto 50px; font-size: 1.25rem; line-height: 1.75; color: #444;">
+    I create sleek, scalable apps & automate complex workflows. Passionate about modern tech, clean code & seamless user experiences. Welcome to my digital world.
   </p>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&duration=5000&pause=1000&color=D16AFF&size=22&width=600&center=true&lines=I+code+with+purpose%2C+shaping+pixels+and+possibilities%2C+;and+unravel+the+mysteries+of+technology." alt="Typing animation" style="display:block; margin: 0 auto 40px; filter: drop-shadow(0 0 5px #d16affcc);" />
-
-  <div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 50px;">
-    <a href="https://instagram.com/hamz.010___" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-      <svg height="44" width="44" viewBox="0 0 24 24" fill="#E4405F" style="filter: drop-shadow(0 0 6px #E4405F); transition: transform 0.3s ease;">
-        <path d="M7.75 2h8.5A5.75 5.75 0 0122 7.75v8.5A5.75 5.75 0 0116.25 22h-8.5A5.75 5.75 0 012 16.25v-8.5A5.75 5.75 0 017.75 2zm4.25 5a4 4 0 100 8 4 4 0 000-8zm5.5-1.25a1.25 1.25 0 11-2.5 0 1.25 1.25 0 012.5 0z"/>
+  <div style="display: flex; justify-content: center; gap: 30px; margin-bottom: 56px;">
+    <a href="https://instagram.com/hamz.010___" target="_blank" rel="noopener noreferrer" style="transition: transform 0.3s ease;">
+      <svg width="56" height="56" viewBox="0 0 24 24" fill="#E1306C" xmlns="http://www.w3.org/2000/svg" style="filter: drop-shadow(0 2px 2px #C026D3);">
+        <path d="M7.75 2h8.5A5.75 5.75 0 0122 7.75v8.5A5.75 5.75 0 0116.25 22h-8.5A5.75 5.75 0 012 16.25v-8.5A5.75 5.75 0 017.75 2zm0 2A3.75 3.75 0 004 7.75v8.5A3.75 3.75 0 007.75 20h8.5a3.75 3.75 0 003.75-3.75v-8.5A3.75 3.75 0 0016.25 4h-8.5zM12 7a5 5 0 110 10 5 5 0 010-10zm0 2a3 3 0 100 6 3 3 0 000-6zm4.5-.75a1.25 1.25 0 11-2.5 0 1.25 1.25 0 012.5 0z"/>
       </svg>
     </a>
 
-    <a href="https://wa.me/66962130137" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-      <svg height="44" width="44" viewBox="0 0 24 24" fill="#25D366" style="filter: drop-shadow(0 0 6px #25D366); transition: transform 0.3s ease;">
-        <path d="M20.52 3.483A11.81 11.81 0 0012 .5a11.97 11.97 0 00-9.27 18.685L.5 23.5l4.357-2.33A11.88 11.88 0 0021.5 12c0-1.808-.44-3.546-1.19-5.165zM12 20.5a8.376 8.376 0 01-4.322-1.272l-.311-.189-2.583 1.38.547-2.535-.203-.334A8.38 8.38 0 013.5 12a8.5 8.5 0 1114.5 6 8.42 8.42 0 01-6 2.5z"/>
-        <path d="M16.05 13.678c-.216-.108-1.272-.627-1.469-.698-.197-.07-.34-.108-.483.108s-.554.698-.68.843c-.124.144-.247.162-.463.054-.216-.108-.91-.336-1.73-1.064-.64-.572-1.07-1.276-1.196-1.492-.124-.216-.013-.333.095-.442.098-.098.216-.247.324-.37.108-.124.144-.216.216-.36.072-.144.036-.27-.018-.378-.054-.108-.483-1.164-.66-1.59-.173-.414-.35-.36-.483-.367l-.413-.007c-.144 0-.378.054-.576.27s-.756.74-.756 1.8.774 2.088.882 2.235c.108.144 1.524 2.328 3.69 3.264.516.222.918.354 1.23.453.516.162.987.139 1.36.084.415-.06 1.272-.52 1.452-1.02.18-.498.18-.927.126-1.02-.054-.096-.197-.144-.413-.252z"/>
+    <a href="https://wa.me/66962130137" target="_blank" rel="noopener noreferrer" style="transition: transform 0.3s ease;">
+      <svg width="56" height="56" viewBox="0 0 24 24" fill="#25D366" xmlns="http://www.w3.org/2000/svg" style="filter: drop-shadow(0 2px 2px #059669);">
+        <path d="M20.52 3.478a11.8 11.8 0 00-16.65 0 11.8 11.8 0 00-3.477 8.35c0 2.27.592 4.457 1.728 6.425L2 22l4.793-1.52a11.764 11.764 0 006.425 1.726c6.51 0 11.802-5.293 11.802-11.8a11.794 11.794 0 00-3.5-8.228zm-8.52 15.02c-1.73 0-3.425-.47-4.92-1.354l-.35-.21-2.85.9.9-2.78-.22-.36a8.43 8.43 0 01-1.3-4.83c0-4.65 3.78-8.43 8.44-8.43a8.38 8.38 0 015.93 2.5 8.35 8.35 0 012.52 5.96c0 4.65-3.78 8.43-8.43 8.43zm4.58-6.15c-.25-.13-1.47-.72-1.7-.8-.23-.07-.4-.12-.57.13-.17.25-.66.8-.81.97-.15.16-.3.18-.55.07a7.58 7.58 0 01-2.22-1.37 8.34 8.34 0 01-1.53-1.9c-.16-.27-.02-.42.12-.56.12-.13.25-.28.37-.43a.59.59 0 00.08-.45c-.08-.17-.57-1.37-.78-1.9-.2-.5-.4-.44-.56-.44-.14 0-.3 0-.46 0a1.2 1.2 0 00-.86.41 3.74 3.74 0 00-1.12 2.7 4.63 4.63 0 002.17 3.62 7.8 7.8 0 003.8 1.52 4.44 4.44 0 002.66-.95 4.5 4.5 0 001.34-2.97c0-.15-.05-.25-.13-.33z"/>
       </svg>
     </a>
   </div>
 
-  <div style="display: flex; justify-content: center; gap: 32px; flex-wrap: wrap; margin-bottom: 50px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=HamzLegendz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" style="border-radius: 16px; box-shadow: 0 0 20px #D16AFFcc; max-width: 360px;"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=HamzLegendz&theme=tokyonight&hide_border=true" alt="GitHub Streak" style="border-radius: 16px; box-shadow: 0 0 20px #D16AFFcc; max-width: 360px;" />
-  </div>
+  <section style="background: linear-gradient(145deg, #F3E8FF, #D8B4FE); border-radius: 24px; box-shadow: 0 20px 40px rgba(124, 58, 237, 0.3); padding: 40px 35px; max-width: 720px; margin: 0 auto 64px;">
+    <h2 style="color: #7C3AED; font-weight: 900; font-size: 2.4rem; margin-bottom: 32px; text-align: center;">GitHub Stats</h2>
+    <img src="https://github-readme-stats.vercel.app/api?username=HamzLegendz&show_icons=true&count_private=true&include_all_commits=true&theme=dracula&hide_border=true&cache_seconds=3600" alt="GitHub Stats" style="width: 100%; border-radius: 24px; box-shadow: 0 16px 38px rgba(124, 58, 237, 0.25);" />
+  </section>
 
-  <div style="margin-bottom: 50px;">
-    <h2 style="font-weight: 700; font-size: 1.8rem; text-align: center; color: #bb63ff; margin-bottom: 20px; letter-spacing: 1px; text-shadow: 0 0 8px #bb63ff;">Contribution Activity</h2>
-    <img src="https://github.com/cutePanda123/cutePanda123/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" style="display: block; margin: 0 auto; max-width: 100%; border-radius: 16px; box-shadow: 0 0 15px #d16affcc;" />
-  </div>
+  <section style="background: #fff; border-radius: 24px; box-shadow: 0 22px 38px rgba(124, 58, 237, 0.18); padding: 42px 35px; max-width: 720px; margin: 0 auto 64px;">
+    <h2 style="color: #7C3AED; font-weight: 900; font-size: 2.4rem; margin-bottom: 36px; text-align: center;">Contribution Graph & Top Langs</h2>
+    <div style="display: flex; gap: 32px; flex-wrap: wrap; justify-content: center; align-items: center;">
+      <img src="https://github-contribution-stats.vercel.app/api?username=HamzLegendz&theme=react&hide_border=true&cache_seconds=3600" alt="Contribution Graph" style="flex: 1 1 320px; border-radius: 24px; box-shadow: 0 14px 28px rgba(124, 58, 237, 0.16);" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzLegendz&layout=compact&langs_count=6&theme=dracula&hide_border=true&cache_seconds=3600" alt="Top Languages" style="flex: 0 0 260px; border-radius: 24px; box-shadow: 0 14px 28px rgba(124, 58, 237, 0.16);" />
+    </div>
+  </section>
 
-  <div style="margin-bottom: 50px;">
-    <h2 style="font-weight: 700; font-size: 1.8rem; text-align: center; color: #bb63ff; margin-bottom: 20px; letter-spacing: 1px; text-shadow: 0 0 8px #bb63ff;">Now Playing on Spotify</h2>
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ep4t7scar2rluyqqib6vkd3esm" alt="Spotify Recently Played" style="display: block; margin: 0 auto; border-radius: 16px; box-shadow: 0 0 20px #1DB954cc; max-width: 100%;" />
-  </div>
+  <section style="background: linear-gradient(135deg, #6D28D9, #8B5CF6); border-radius: 24px; box-shadow: 0 20px 40px rgba(139, 92, 246, 0.5); color: white; padding: 42px 35px; max-width: 720px; margin: 0 auto 72px;">
+    <h2 style="font-weight: 900; font-size: 2.4rem; margin-bottom: 36px; text-align: center;">Spotify - Now Playing</h2>
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ep4t7scar2rluyqqib6vkd3esm" alt="Spotify Recently Played" style="width: 100%; border-radius: 24px; box-shadow: 0 18px 40px rgba(0,0,0,0.55);" />
+  </section>
 
-  <footer style="text-align: center; color: #888; font-size: 0.95rem; font-style: italic; letter-spacing: 0.05em; margin-top: 40px; user-select: none;">
-    Thanks for stopping by! Keep creating, keep growing. &#128521;🌟
+  <footer style="color: #9CA3AF; font-weight: 600; font-size: 1.2rem; text-align: center; margin-top: 90px;">
+    <p>Made with passion &amp; clean code by HamzLegendz &mdash; Let's build the future together!</p>
   </footer>
-
 </p>
+
+<style>
+@keyframes spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+a:hover svg {
+  transform: scale(1.2);
+  filter: drop-shadow(0 4px 8px rgba(124, 58, 237, 0.85));
+  transition: all 0.3s ease;
+}
+a svg {
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+</style>
