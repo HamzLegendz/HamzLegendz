@@ -12,7 +12,6 @@ Every challenge is an opportunity to grow, and I'm committed to learning somethi
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=4997&color=993300&background=FF673200&center=true&vCenter=true&lines=Hey+there!;Its+me,+HamzLegendz!;Welcome;To+My+GitHub🌟" alt="Typing SVG" />
 </p>
 
-
 <p align="center"><b>Visitors</b></p>
 
 <p align="center">
@@ -24,12 +23,11 @@ Every challenge is an opportunity to grow, and I'm committed to learning somethi
 ### Connect with Me
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/hamz.010___)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/66962130137)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/6283897655884)
 
 ---
 
 ### My GitHub Stats & Activity
-
 <details>
   <summary>📊 GitHub Summary Cards</summary>
   <p align="center">
