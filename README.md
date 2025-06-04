@@ -9,9 +9,7 @@ Every challenge is an opportunity to grow, and I'm committed to learning somethi
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=5999&color=993300&background=FF673200&center=true&vCenter=true&lines=We+wok+te+tok+not+only+tok+de+tok" alt="Typing SVG" />
-</p>
-
+  <img src="https://img.shields.io/badge/We_wok_te_tok_not_only_tok_de_tok-orange?style=for-the-badge&logo=github" alt="Badge" />
 <p align="center"><b>Visitors</b></p>
 
 <p align="center">
